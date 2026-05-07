@@ -1,0 +1,20 @@
+[
+    {
+        "empresa": "Tech Solutions",
+        "cargo": "Backend Python Jr",
+        "salario": 4500,
+        "local": "Remoto"
+    },
+    {
+        "empresa": "CodeX",
+        "cargo": "QA Júnior",
+        "salario": 3500,
+        "local": "São Paulo"
+    },
+    {
+        "empresa": "DevMaster",
+        "cargo": "Desenvolvedor Java Júnior",
+        "salario": 5000,
+        "local": "Híbrido"
+    }
+]
